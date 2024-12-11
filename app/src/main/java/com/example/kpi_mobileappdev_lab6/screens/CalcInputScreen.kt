@@ -89,9 +89,9 @@ fun CalcInputScreen(
     val erParametersLabels = hashMapOf(
         "efficiencyNomVal" to "Номінальне значення ККД",
         "loadPowerFactor" to "Коефіцієнт потужності навантаження",
-        "loadVoltage" to "Напруга навантаження",
-        "erQuantity" to "Кількість ЕП",
-        "ratedPower" to "Номінальна потужність ЕП",
+        "loadVoltage" to "Напруга навантаження (кВ)",
+        "erQuantity" to "Кількість ЕП (шт)",
+        "ratedPower" to "Номінальна потужність ЕП (кВт)",
         "utilisationRate" to "Коефіцієнт використання",
         "reactivePowerFactor" to "Коефіцієнт реактивної потужності"
     )
